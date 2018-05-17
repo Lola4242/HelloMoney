@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloMoney</string>
+    <string name="Welcome_text"> Hi! \n Let's play!.</string>
+    <string name="next_button">Next</string>
 </resources>
